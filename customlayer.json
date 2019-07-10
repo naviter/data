@@ -1,0 +1,1021 @@
+{
+  "sources": {
+    "some-lines-source": {
+      "type": "geojson",
+      "data": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Custom name property"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  12.0625,
+                  46.26055,
+                  1302
+                ],
+                [
+                  13.20583,
+                  46.74888,
+                  584
+                ],
+                [
+                  11.57722,
+                  46.80638,
+                  1020
+                ],
+                [
+                  12.39305,
+                  47.3525,
+                  1433
+                ],
+                [
+                  13.20583,
+                  46.74888,
+                  584
+                ],
+                [
+                  12.0625,
+                  46.26055,
+                  1302
+                ]
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Another line"
+            },
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  12.0625,
+                  46.26055,
+                  1302
+                ],
+                [
+                  14.52695,
+                  46.28167,
+                  1349
+                ],
+                [
+                  10.57528,
+                  46.66167,
+                  920
+                ],
+                [
+                  12.0625,
+                  46.26055,
+                  1302
+                ]
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "some-points-source": {
+      "type": "geojson",
+      "data": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "100sp2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.21862,
+                46.29417,
+                1318
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "200sp",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.715,
+                46.31,
+                1354
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "abropr",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.52945,
+                46.25112,
+                467
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "ambro",
+              "sym": "Airport"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.52695,
+                46.28167,
+                1349
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "baba",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.01583,
+                46.48222,
+                1580
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "breginj",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.42945,
+                46.25305,
+                613
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "cilj",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.68888,
+                46.20138,
+                170
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Dolenja Vas",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.22388,
+                46.20972,
+                420
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "g1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.225,
+                46.78138,
+                1821
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gemona",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.16083,
+                46.27278,
+                860
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Gerlamoos",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.28417,
+                46.76028,
+                574
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gfb1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.36167,
+                46.71222,
+                1315
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gfb11",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.22195,
+                46.75917,
+                1821
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "gfb2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.81195,
+                47.07917,
+                2193
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Gorica Ul",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                16.14472,
+                46.7,
+                200
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Greifenbrg",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.20583,
+                46.74888,
+                584
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "heligeblut",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.89305,
+                47.05138,
+                2400
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "istra",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.91778,
+                45.1075,
+                344
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.57778,
+                46.25138,
+                426
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k11",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.58778,
+                46.24945,
+                242
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k13",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.58805,
+                46.23888,
+                208
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.44778,
+                46.25888,
+                651
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k23",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.46055,
+                46.27362,
+                1282
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k3",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.52362,
+                46.29528,
+                770
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "k33",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.54778,
+                46.29805,
+                1117
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "kepa",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.95472,
+                46.50528,
+                2043
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "koralpe",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                15.11833,
+                46.72862,
+                972
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "koralpe2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                15.08722,
+                46.90722,
+                1164
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "krncica",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.63055,
+                46.29888,
+                1749
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "kuk",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.62055,
+                46.19472,
+                1199
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "L_1_2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.01833,
+                46.23305,
+                1350
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "lajnar",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.01112,
+                46.23028,
+                1384
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "levico",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                11.28862,
+                46.04862,
+                1486
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "longarone",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.35,
+                46.28333,
+                1680
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "misolovka",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.63472,
+                46.31083,
+                1923
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Mittewald",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                11.57722,
+                46.80638,
+                1020
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Ortisei Vagarden",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                11.62917,
+                46.58805,
+                958
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "rodica",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.86555,
+                46.23,
+                1794
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "S_TP1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.62028,
+                46.235,
+                0
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "S_TP2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.4625,
+                46.26722,
+                0
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "S_TP3",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.06,
+                46.57112,
+                0
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Schluderns",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                10.57528,
+                46.66167,
+                920
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "swinstein",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                11.01222,
+                47.56055,
+                1073
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Szatymaz Gld",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                20.05388,
+                46.32138,
+                76
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "t_300p",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.0625,
+                46.26055,
+                1302
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "t1_300p",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.02417,
+                46.2275,
+                1090
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "t3h",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.39305,
+                47.3525,
+                1433
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tb1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.68445,
+                47.04333,
+                2715
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tb2",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                11.25138,
+                46.9625,
+                3038
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tb3",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                11.98417,
+                46.54528,
+                2064
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tg201",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.46722,
+                46.77638,
+                2089
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tm1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.9925,
+                46.24945,
+                1334
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Tolmin",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.705,
+                46.18862,
+                188
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tpp3",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.60445,
+                46.29722,
+                1325
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "trb3",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                12.4375,
+                47.13862,
+                2510
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "tss33",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.71388,
+                46.41667,
+                1669
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "uršlja",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.9775,
+                46.48528,
+                1383
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "vrhnika",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                14.30083,
+                45.96667,
+                293
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Wocheiner See",
+              "sym": "Airport"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.885,
+                46.285,
+                536
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "xx1",
+              "sym": "Normal"
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                13.39333,
+                46.71278,
+                1508
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "layers": [
+    {
+      "id": "custom-lines-layer",
+      "type": "line",
+      "source": "some-lines-source",
+      "layout": {
+        "line-join": "round",
+        "line-cap": "round"
+      },
+      "paint": {
+        "line-color": "#0000ff",
+        "line-width": 2.5,
+        "line-dasharray": [1, 2]
+      },
+      "filter": ["in", "$type", "LineString"]
+    },
+    {
+      "id": "custom-points-layer",
+      "type": "circle",
+      "source": "some-points-source",
+      "paint": {
+        "circle-radius": 4,
+        "circle-color": "#ff0000",
+        "circle-stroke-width": 2,
+        "circle-stroke-color": "#fff"
+      },
+      "filter": ["in", "$type", "Point"]
+    }
+  ]
+}
